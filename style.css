@@ -1,0 +1,51 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background-image: url('download.jpg');
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+.menu{
+	float: right;
+	list-style: none;
+	margin-top: 30px;
+}
+.menu li{
+	display:inline-block;
+}
+.menu li a{
+	color:turquoise;
+	text-decoration: none;
+	padding:5px 20px;
+	font-family: "verdana","sans-serif";
+	font-size: 20px;
+}
+.message{
+	position: absolute;
+	width: 1200px
+	margin-top:0;
+	margin-left: 55px;
+}
+h1{
+	color:white;
+	font-size: 40px;
+	font-family: "verdana","sans-serif";
+	text-align: center;
+	margin-top: 300px;
+}
+.apply{
+	margin-top: 30px;
+	margin-left: 540px;
+}
+.button{
+	border:1px solid white;
+	padding:10px 30px;
+	color:yellow;
+	font-size: 20px;
+	font-family: "verdana","sans-serif";
+	text-decoration: none;
+}
